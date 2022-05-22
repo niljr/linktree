@@ -51,5 +51,11 @@ export const config = {
             type: 'url',
             link: 'https://manganato.com/'
         },
+        {
+            slug: 'googlesheets',
+            type: 'url',
+            link: 'https://docs.google.com/spreadsheets/u/0/'
+        },
+        
     ]
 }
